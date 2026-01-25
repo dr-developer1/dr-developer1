@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ahmad Ibrahim AKA Dr Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Software+Engineer;6%2B+Years+of+Experience;Problem+Solver+%26+Tech+Enthusiast;Building+Scalable+Solutions;Offline-First+Architecture+Specialist" alt="Typing SVG" />
