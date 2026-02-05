@@ -101,7 +101,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dr-developer1&theme=tokyonight&no-frame=false&margin-w=15&column=7" alt="github trophies" />
+  <img src="trophy.svg" alt="Ahmad Ibrahim's Trophies" />
 </p>
 
 ---
