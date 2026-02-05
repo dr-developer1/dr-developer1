@@ -100,7 +100,7 @@ const developer = {
 
 ## 🏆 GitHub Trophies
 
-![trophy](./trophy.svg)
+[![trophy](https://github-profile-trophy.vercel.app/api/?username=dr-developer1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
