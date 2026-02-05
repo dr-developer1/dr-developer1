@@ -102,7 +102,7 @@ const developer = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=dr-developer1&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=dr-developer1&theme=radical&no-frame=true&column=8)
 
 </div>
 
