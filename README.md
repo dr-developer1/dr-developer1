@@ -100,9 +100,7 @@ const developer = {
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="trophy.svg" alt="Ahmad Ibrahim's Trophies" />
-</p>
+![trophy](./trophy.svg)
 
 ---
 
