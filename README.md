@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmad Ibrahim AKA Dr Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Software+Engineer;6%2B+Years+of+Experience;Problem+Solver+%26+Tech+Enthusiast;Building+Scalable+Solutions;Offline+First+Architecture+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Software+Engineer;6%2B+Years+of+Experience;Problem+Solver+%26+Tech+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -100,11 +100,9 @@ const developer = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=dr-developer1&theme=radical&no-frame=true&column=8)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dr-developer1&theme=tokyonight&no-frame=false&margin-w=15&column=7" alt="github trophies" />
+</p>
 
 ---
 
